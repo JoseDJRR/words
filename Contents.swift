@@ -21,15 +21,8 @@ func rotacion(_ p: [String]) -> Int{
 }
 
 var cambio =
-    [
-    "palabra",
-    "artificio",
-    "reiniciar",
-    "popocatepetl",
-    "bicornio",
-    "integrales",
-    "chancla",
-    "pistola"
-]
+    ["palabra","artificio","reiniciar",
+    "popocatepetl","bicornio","integrales",
+    "chancla","pistola"]
 
 print(rotacion(cambio))
